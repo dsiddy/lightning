@@ -1,0 +1,3 @@
+DATA_DIR_NAME = 'test'
+# DATA_DIR_NAME = 'IMG_0617'
+RANGE = 256
